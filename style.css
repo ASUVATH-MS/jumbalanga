@@ -51,9 +51,9 @@
 .score
 {
     background-color: rgb(255, 255, 255);
-    padding: 4px;
+    padding: 0.7vw;
     border-radius: 50px;
-    font-size: 70%;
+    font-size: 100%;
     display: flex;
     justify-content: space-between;
     margin-right: 5%;
